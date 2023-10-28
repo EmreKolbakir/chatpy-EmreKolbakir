@@ -6,6 +6,7 @@ This project aims to provide a fundamental understanding of how chat systems wor
 showcasing the interaction between servers and clients.
 
 How to Use
+
 1)Setup: Clone the repository to your local machine. Ensure you have Python installed.
 2)Running the Server: Navigate to the directory containing 'server.py' and run the script using 
 Python in your command line interface: python3 server.py
